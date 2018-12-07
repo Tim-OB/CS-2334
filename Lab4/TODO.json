@@ -1,0 +1,63 @@
+{
+    "Lab Section": 13,
+    "Last Modified": "2018-09-14",
+    "OU ID": 113327713,
+    "OU EMAIL": "timothy.c.obrien-1@ou.edu",
+    "Tasks": [
+        {
+            "Description": "Finish the TODO task in testLightestPlayer",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 25
+        },
+        {
+            "Description": "Finish the TODO task in testAnyPlayersFromCityName",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Finish the TODO task in testWritePlayersWithState",
+            "Estimated Time (Minutes)": 70,
+            "Actual Time (Minutes)": 40
+        },
+        {
+            "Description": "Finish the TODO task in testWriteStatistics",
+            "Estimated Time (Minutes)": 70,
+            "Actual Time (Minutes)": 40
+        },
+        {
+            "Description": "Fix format string",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 12
+        },
+        {
+            "Description": "Finish the TODO task in addAnimalTest",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 15
+        },
+        {
+            "Description": "Finish the TODO task in getTotalWeightTest",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Finish the TODO task in getAverageAgeTest",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Finish the TODO task in totalAgeWithNameTest",
+            "Estimated Time (Minutes)": 25,
+            "Actual Time (Minutes)": 15
+        },
+        {
+            "Description": "Finish the TODO task in numberAnimalsOfSpeciesTest",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 12
+        },
+        {
+            "Description": "Finish the TODO task in zooToStringTest",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 15
+        },
+    ]
+}

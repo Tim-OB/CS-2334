@@ -1,0 +1,89 @@
+{
+    "Lab Section": 13,
+    "Last Modified":  "2018-09-26",
+    "OU ID": 113327713,
+    "OU EMAIL": "timothy.c.obrien-1@ou.edu",
+    "Tasks": [
+        {
+            "Description": "Create Driver class",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Create MapData class",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Populate MapData class from the UML Diagram",
+            "Estimated Time (Minutes)": 25,
+            "Actual Time (Minutes)": 100
+        },
+        {
+            "Description": "Create method parseFile in MapData",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 40
+        },
+        {
+            "Description": "Create method parseParamHeader in MapData",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 30
+        },
+        {
+            "Description": "Create method calculateStatistics in MapData",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 60
+        },
+        {
+            "Description": "Create Observation class",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Create AbstractObservation class",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 15
+        },
+        {
+            "Description": "Create Statistics class",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 120
+        },
+        {
+            "Description": "Create StatsType class",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Create JUnit tests",
+            "Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 45
+        },
+        {
+            "Description": "Implement Unit tests",
+            "Estimated Time (Minutes)": 60,
+            "Actual Time (Minutes)": 60
+        },
+        {
+            "Description": "Create data directory",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Create createFileName method",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 20
+        },
+        {
+            "Description": "Format the output to match the given example",
+            "Estimated Time (Minutes)": 25,
+            "Actual Time (Minutes)": 25
+        },
+        {
+            "Description": "Test the entire program",
+            "Estimated Time (Minutes)": 60,
+            "Actual Time (Minutes)": 30
+        },
+
+    ]
+}

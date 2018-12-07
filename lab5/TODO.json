@@ -1,0 +1,30 @@
+{
+    "Lab Section": 13,
+    "Last Modified": "2018-09-29",
+    "OU ID": 113327713,
+    "OU EMAIL": "timothy.c.obrien-1@ou.edu",
+    "Tasks": [
+        {
+            "Description": "Implement the CalculatorException missing methods",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 25
+        },
+        {
+            "Description": "Implement the Calculator class missing methods",
+            "Estimated Time (Minutes)": 40,
+            "Actual Time (Minutes)": 105
+        },
+        {
+            "Description": "Implement unit tests",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 25
+        },
+        {
+            "Description": "Double check the program",
+            "Estimated Time (Minutes)": 30,
+            "Actual Time (Minutes)": 50
+        },
+        
+        
+    ]
+}

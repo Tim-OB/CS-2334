@@ -1,0 +1,45 @@
+{
+    "Lab Section": 13,
+    "Last Modified": "2018-10-04",
+    "OU ID": 113327713,
+    "OU EMAIL": "timothy.c.obrien-1@ou.edu",
+    "Tasks": [
+        {
+            "Description": "Implement the constructors in all given classes",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 25
+        },
+        {
+            "Description": "Implement the calculate area missing methods",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 15
+        },
+        {
+            "Description": "Implement the getShapeType missing methods",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Create the Triangle class",
+            "Estimated Time (Minutes)": 10,
+            "Actual Time (Minutes)": 5
+        },
+        {
+            "Description": "Create the EquilateralTriangle class",
+            "Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 10
+        },
+        {
+            "Description": "Implement unit tests",
+            "Estimated Time (Minutes)": 25,
+            "Actual Time (Minutes)": 30
+        },
+        {
+            "Description": "Double check the program",
+            "Estimated Time (Minutes)": 30,
+            "Actual Time (Minutes)": 50
+        },
+        
+        
+    ]
+}
